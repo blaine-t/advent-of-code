@@ -1,2 +1,3 @@
 # advent-of-code
-Main repository for links to all my yearly advent-of-code repos
+
+Repository for all of my Advent of Code solutions (The good and the bad and the incomplete)
