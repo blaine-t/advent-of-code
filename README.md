@@ -1,3 +1,3 @@
 # advent-of-code
 
-Repository for all of my Advent of Code solutions (The good and the bad and the incomplete)
+Repository for all of my Advent of Code solutions (The Good, the Bad and the Incomplete)
