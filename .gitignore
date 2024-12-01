@@ -246,3 +246,6 @@ dkms.conf
 *.exe
 *.out
 *.app
+
+# Text files
+*.txt
