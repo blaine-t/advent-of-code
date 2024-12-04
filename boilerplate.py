@@ -8,11 +8,13 @@ from sys import argv
 setDebug(True)
 setTest(False)
 
-sum = 0
+result = 0
 list1 = []
 list2 = []
 list3 = []
+regex = '^\d+'
 for line in readFileLines():
+    regResList = re.findall(regex, line)
     ints = reInts(line)
 
 # list1.sort()
@@ -22,4 +24,4 @@ for line in readFileLines():
 # for i, item in enumerate(list1):
 #     sum +=  abs(item - list2[i])
 
-pprint(sum)
+pprint(result)
